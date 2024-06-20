@@ -1,3 +1,5 @@
+package mainPackage;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
@@ -171,8 +173,6 @@ public class MainMenu extends javax.swing.JFrame {
     private javax.swing.JButton button;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JTextField jTextField1;
-    private javax.swing.JButton quitButton;
-    private javax.swing.JButton quitButton1;
     private javax.swing.JButton quitButton2;
     private javax.swing.JLabel title;
     // End of variables declaration//GEN-END:variables
